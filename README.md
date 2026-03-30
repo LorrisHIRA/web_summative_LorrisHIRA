@@ -148,3 +148,6 @@ The main challenge was handling CORS when calling the API directly from the brow
 ## Author
 
 Hira Lorris — l.hira@alustudent.com
+## Demo Video
+
+[Watch the demo here](https://drive.google.com/file/d/1Ln02fhsZS-S8IodwPs7bohrgOHf-2SAI/view?usp=sharing)
